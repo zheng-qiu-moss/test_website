@@ -44,7 +44,7 @@
 8. **威力**：法术牌特有，涉及到法术进攻与防御问题。
 
 对于具体的卡牌种类，人物，伙伴，技能以及道具，你可以通过卡面上的图标来区分他们。
-![Alt](https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_4.jpg =600x)
+<img src="https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_4.jpg" width="600">
 
 ### 人物牌
 ![Alt](https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_4.jpg =600x)
