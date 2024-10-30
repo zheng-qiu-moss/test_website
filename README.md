@@ -201,13 +201,13 @@
 
 ## 卡组构筑
 
-使用[SorceryComposer][https://yifeeeeei.github.io/SorceryComposer/] 进行卡组构筑
+使用[ArcaneComposer][https://yifeeeeei.github.io/ArcaneComposer/] 进行卡组构筑
 
 卡组由1英雄牌+30张主要卡组牌+10张技能卡组牌+额外卡组构成。
 
-对于主要卡组：一种传奇级卡牌只能携带一张，同种普通卡牌最多携带两张
+对于主卡组：一种传奇级卡牌只能携带一张，同种普通卡牌最多携带两张
 
-对于技能卡组：同种技能最多携带一张
+对于技能池：同种技能最多携带一张
 
 额外卡组用于放置衍生牌。
 
@@ -217,11 +217,9 @@
 
 ## 桌游模拟器游戏界面
 
-请订阅我们的模组
+请订阅我们的模组[tabletop][https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993]
 
-### 生成卡组
-
-在[SorceryComposer][https://yifeeeeei.github.io/SorceryComposer/] 上完成构筑并且复制卡组代码后，在TTS中央的输入框输入卡组代码并且点击魔法喷泉就会生成相应的卡组
+在[ArcaneComposer][https://yifeeeeei.github.io/ArcaneComposer/] 上完成构筑并且复制卡组代码后，在TTS中央的输入框输入卡组代码并且点击魔法喷泉就会生成相应的卡组
 
 将相应卡牌摆放好以后开始游戏
 
@@ -232,3 +230,5 @@
 常用快捷键：G合并卡牌，Q,E旋转卡牌，F翻转卡牌，ALT/OPTION放大
 
 # 加入我们
+
+QQ群号：
