@@ -30,10 +30,10 @@
 
 卡牌种类分为人物牌、伙伴牌、道具牌、技能牌。其中，英雄牌在游戏开始时置于单位区的中央，伙伴牌和道具牌组成主卡组，技能牌放置于技能池中。一张卡牌上通常包括以下信息：
 
-![卡牌图片](https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_2.jpg)
+<img src="https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_2.jpg">
 
 1. **属性**：表示该卡牌的属性，属性包括如下7种：
-![卡牌图片](https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_3.jpg)
+<img src="https://github.com/zheng-qiu-moss/test_website/raw/main/image/image_3.jpg">
 其中，奥术元素较为特殊，可以当做任意其他元素使用，需要花费奥术元素的卡牌也可以使用任意元素来代替。
 2. **入场费用**：表示召唤生物、装备或使用道具、学习法术所需要花费的元素
 3. **生命值**：表示单位的生命值，降为0后死亡
