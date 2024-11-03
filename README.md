@@ -1,5 +1,3 @@
-# 目录
-
 
 # 游戏背景
 
@@ -234,6 +232,8 @@
 
 请订阅我们的模组[tabletop][https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993]
 
+创建游戏->创意工坊->选择我们的模组
+
 在[ArcaneComposer][https://yifeeeeei.github.io/ArcaneComposer/] 上完成构筑并且复制卡组代码后，在TTS中央的输入框输入卡组代码并且点击魔法喷泉就会生成相应的卡组
 
 将相应卡牌摆放好以后开始游戏
@@ -244,6 +244,3 @@
 
 常用快捷键：G合并卡牌，Q,E旋转卡牌，F翻转卡牌，ALT/OPTION放大
 
-# 加入我们
-
-QQ群号：
