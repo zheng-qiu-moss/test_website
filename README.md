@@ -229,7 +229,7 @@
 
 ## 卡组构筑
 
-使用[ArcaneComposer][https://yifeeeeei.github.io/ArcaneComposer/] 进行卡组构筑
+使用[ArcaneComposer](https://yifeeeeei.github.io/ArcaneComposer/) 进行卡组构筑
 
 卡组由1英雄牌+30张主要卡组牌+10张技能卡组牌+额外卡组构成。
 
@@ -239,17 +239,17 @@
 
 额外卡组用于放置衍生牌。
 
-完成构筑后，你可以导出卡组代码并在tts内直接生成相应的卡组（关闭mod cachine，来保证生成的卡牌都是最新版）
+完成构筑后，你可以导出卡组代码并在tts内直接生成相应的卡组（关闭mod caching，来保证生成的卡牌都是最新版）
 
-我们提供了一些预组卡组代码方便新人上手，你可以在我们的主页[EraOfArcane][https://yifeeeeei.github.io/EraOfArcane/]上进行查看，在ArcaneComposer上调整
+我们提供了一些预组卡组代码方便新人上手，你可以在我们的主页[EraOfArcane](https://yifeeeeei.github.io/EraOfArcane/)上进行查看，在ArcaneComposer上调整
 
 ## 桌游模拟器游戏界面
 
-请订阅我们的模组[tabletop][https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993]
+请订阅我们的模组[tabletop](https://steamcommunity.com/sharedfiles/filedetails/?id=3155709993)
 
 创建游戏->创意工坊->选择我们的模组
 
-在[ArcaneComposer][https://yifeeeeei.github.io/ArcaneComposer/] 上完成构筑并且复制卡组代码后，在TTS中央的输入框输入卡组代码并且点击魔法喷泉就会生成相应的卡组
+在[ArcaneComposer](https://yifeeeeei.github.io/ArcaneComposer/) 上完成构筑并且复制卡组代码后，在TTS中央的输入框输入卡组代码并且点击魔法喷泉就会生成相应的卡组
 
 将相应卡牌摆放好以后开始游戏
 
